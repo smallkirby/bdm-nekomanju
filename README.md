@@ -31,4 +31,4 @@ We make no warranty, especially on security. Remember that this is demo system/a
 
 ## LISCENSE
 Most of our code is under [MIT LISENCE](/LICENSE).  
-However, library source code under `/main/mains` and `/main/src/` belongs to their own LISCENSE.
+However, library source code under `/main/mains` and `/main/src/` belongs to their own LICENSE.
