@@ -10,7 +10,7 @@ It consists of two main components.
 
 ## Credits
 2021.01.07, work of BDM.  
-[smallkirby](https://github.com/smallkirby), 
+[smallkirby](https://github.com/smallkirby), [NaomiatLibrary](https://github.com/NaomiatLibrary)
 
 ## Functionalities
 Watch air condition and record it with various information. Collected data is sent to remote server via local BT server, then utilized via Android app.  
