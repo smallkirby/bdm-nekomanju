@@ -1,7 +1,7 @@
 # BDM: nekomanju: keep air clean
 
 ## Abstraction
-**This app is developped as a activity in UTokyo's course named "BDM"**.  
+**This app is developed as an activity in UTokyo's course named "BDM"**.  
 It consists of two main components.
 1. IoT environment observer and local Bluetooth server.
    - source is mainly under [/main](/main).
@@ -13,7 +13,7 @@ It consists of two main components.
 [smallkirby](https://github.com/smallkirby), [NaomiatLibrary](https://github.com/NaomiatLibrary)
 
 ## Functionalities
-Watch air condition and record it with various information. Collected data is sent to remote server via local BT server, then utilized via Android app.  
+Watch air condition and record it with various information. Collected data is sent to a remote server via the local BT server, then utilized via an Android app.  
 Mainly inspired by [mocha](https://mocha.t.u-tokyo.ac.jp/en)(UTokyo's mobile check-in app for COVID-19).
 
 ## Images
@@ -29,6 +29,6 @@ Mainly inspired by [mocha](https://mocha.t.u-tokyo.ac.jp/en)(UTokyo's mobile che
 ## Warnings
 We make no warranty, especially on security. Remember that this is demo system/app.
 
-## LISCENSE
+## LICENSE
 Most of our code is under [MIT LISENCE](/LICENSE).  
 However, library source code under `/main/mains` and `/main/src/` belongs to their own LICENSE.
