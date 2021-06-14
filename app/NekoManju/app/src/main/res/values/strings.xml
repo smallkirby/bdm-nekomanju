@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CO2通知くん</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="notification_channel_id" translatable="false">nekochannel</string>
+    <string name="notification_channel_name" translatable="true">Neko</string>
+    <string name="main_title">CO2通知くん</string>
+    <string name="notification_title_string">CO2濃度が高いです。換気をしましょう！！</string>
+</resources>

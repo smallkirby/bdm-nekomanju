@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/show_log_menu"
+        android:title="ログを見る" />
+    <item
+        android:id="@+id/show_meyasu_menu"
+        android:title="目安を確認" />
+    <item
+        android:id="@+id/go_map_menu"
+        android:title="Map" />
+
+</menu>
