@@ -30,5 +30,5 @@ Mainly inspired by [mocha](https://mocha.t.u-tokyo.ac.jp/en)(UTokyo's mobile che
 We make no warranty, especially on security. Remember that this is demo system/app.
 
 ## LICENSE
-Most of our code is under [MIT LISENCE](/LICENSE).  
+Most of our code is under [MIT LICENSE](/LICENSE).  
 However, library source code under `/main/mains` and `/main/src/` belongs to their own LICENSE.
