@@ -32,3 +32,6 @@ We make no warranty, especially on security. Remember that this is demo system/a
 ## LICENSE
 Most of our code is under [MIT LICENSE](/LICENSE).  
 However, library source code under `/main/mains` and `/main/src/` belongs to their own LICENSE.
+
+## Note
+All API keys, local IP address, and any other credentials are invalidated.
